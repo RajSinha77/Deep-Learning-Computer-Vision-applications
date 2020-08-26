@@ -104,5 +104,5 @@ Feel free to **file a new issue** with a respective title and description on the
 
 ## :eyes: License
 
-## :heart: Owner
+
 Made with :heart:&nbsp;  by [RAJ SINHA](https://github.com/rajsinha77)
