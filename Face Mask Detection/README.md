@@ -102,7 +102,7 @@ Feel free to **file a new issue** with a respective title and description on the
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
-## :eyes: License
+
 
 
 Made with :heart:&nbsp;  by [RAJ SINHA](https://github.com/rajsinha77)
